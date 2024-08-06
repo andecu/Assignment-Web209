@@ -1,0 +1,5 @@
+.banner-wrap {
+  background: url(../../../public/images/banner_layer_mask.png) no-repeat left
+    center / cover;
+  position: relative;
+}

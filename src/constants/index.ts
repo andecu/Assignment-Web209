@@ -1,0 +1,2 @@
+export const TOKEN_STORAGE_KEY = "ASM_TOKEN";
+export const USER_INFO_STORAGE_KEY = "ASM_USER";

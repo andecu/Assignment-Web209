@@ -1,0 +1,91 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Danh mục 1",
+      "image": "https://picsum.photos/500/500"
+    },
+    {
+      "name": "Danh mục new updated",
+      "image": "https://loremflickr.com/640/480/abstract",
+      "id": "goKx6bI"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Product A updated",
+      "image": "https://picsum.photos/500/500",
+      "price": 25000,
+      "categoryId": "goKx6bI"
+    },
+    {
+      "name": "Product A updated",
+      "price": "98999",
+      "image": "https://loremflickr.com/640/480/abstract",
+      "categoryId": "1",
+      "id": "RGEZnIi"
+    },
+    {
+      "name": "Product C",
+      "price": 888888,
+      "image": "https://picsum.photos/500/500",
+      "categoryId": "goKx6bI",
+      "id": "56NES07"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$PbDKMv8AM29sTmE/D0LvQuC58dqE2PnuOHAS9M6wIapg8R0KF1jRK",
+      "name": "Admin",
+      "id": 1
+    },
+    {
+      "email": "andecu@gmail.com",
+      "password": "$2a$10$f11nPCTSjcut0iQytRgFeuDRclIEDcJtRrDpN80zkyY4nappL5RAW",
+      "name": "an nguyễn ",
+      "id": 2
+    },
+    {
+      "email": "an1@gmail.com",
+      "password": "$2a$10$C/cV5zt6GH4LYQJWRj3OR.scE7IMkub9ujA/kjl4bKCT6n53eUhGS",
+      "name": "an nguyen ",
+      "id": 3
+    }
+  ],
+  "carts": [
+    {
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "id": 6
+    }
+  ],
+  "cartItems": [
+    {
+      "cartId": 5,
+      "productId": "RGEZnIi",
+      "quantity": 3,
+      "id": 1
+    },
+    {
+      "cartId": 5,
+      "productId": "56NES07",
+      "quantity": 3,
+      "id": 2
+    },
+    {
+      "cartId": 6,
+      "productId": "RGEZnIi",
+      "quantity": 4,
+      "id": 3
+    }
+  ]
+}

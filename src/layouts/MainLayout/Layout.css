@@ -1,0 +1,13 @@
+.header-wrapper {
+  background: linear-gradient(
+    89.96deg,
+    #4e7c32 17.33%,
+    rgba(102, 83, 69, 0) 175.13%
+  );
+  box-shadow: 0px 4px 4px 0px #00000033;
+}
+
+.contact-form {
+  background: url(../../../public/images/layer_mask.png) no-repeat right bottom /
+    contain;
+}
